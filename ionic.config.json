@@ -1,0 +1,7 @@
+{
+  "name": "ProductIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
