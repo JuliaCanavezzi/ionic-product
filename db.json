@@ -1,0 +1,20 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "name": "Parafuso",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Porta",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "name": "Paleta",
+      "price": 50
+    }
+  ]
+
+}
