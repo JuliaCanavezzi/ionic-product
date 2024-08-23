@@ -5,7 +5,7 @@
 </ion-header>
 
 <ion-list>
-  <ion-item *ngFor="let product of products">
+  <ion-item *ngFor="let product of products" [routerLink]="['/product-details', product.id]">
     <ion-label>{{product.name}}</ion-label>
   </ion-item>
 </ion-list>
